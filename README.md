@@ -20,4 +20,4 @@ Multiplication:
 
 Karatsuba: O(n^log3) instead of O(n^2) as with regular multiplication.
 
-Exponentiation by doubling: O(logn) instead of O(n)
+Exponentiation by doubling: O(logn) instead of O(n) as with regular exponentiation.
