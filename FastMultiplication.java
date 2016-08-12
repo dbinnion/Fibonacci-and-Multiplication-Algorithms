@@ -15,7 +15,7 @@ public class FastMultiplication {
 		
 		if(first<0)
 			sign *= -1;
-		if(second<1)
+		if(second<0)
 			sign *=-1;
 		
 		while(first !=0)
